@@ -125,7 +125,7 @@ function generateNewQuote() {
 
 
     let tweet = document.getElementById("tweet-quote");
-    tweet.href = 'https://twitter.com/intent/tweet?hashtags=quotes&text="' + newQuote;
+    tweet.href = 'https://twitter.com/intent/tweet?hashtags=quotesByBadur&text="' + newQuote;
 
     oldQuoteIndex = index;
 }
