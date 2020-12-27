@@ -9,8 +9,9 @@ body {
     transition: all .6s;
 }
 
-p {
-    font-family: 'Audiowide', cursive;
+p {	
+    font-family: 'Audiowide', sans-serif;
+    font-weight: bold;
     font-size: 21px !important;
     padding-top: 550px !important;
 }
